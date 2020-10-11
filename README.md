@@ -1,3 +1,9 @@
+This is a Netflix clone created using React.js.
+
+It looks and functions like the actual Netflix app, however, instead of playing TV series and movies, it plays their respective trailers.
+
+Please note most poster images will not play trailers due to invalid url details.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
